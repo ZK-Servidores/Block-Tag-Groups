@@ -4,7 +4,7 @@ public Plugin myinfo =
 {
 	name 		= 	"[ ZK Servidores™ ] - Block Tag Groups Steam",
 	author 		= 	"Geison, crashzk",
-	description	=	"Block bind to switch steam group",
+	description	=	"Block bind to switch Steam Group",
 	version 	= 	"1.0",
 	url 		= 	"https://github.com/zkservidores-clientes"
 }
